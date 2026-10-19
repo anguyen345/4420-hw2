@@ -5,7 +5,7 @@ import numpy as np
 from tqdm import tqdm
 from matplotlib import pyplot as plt
 
-#CHNAGE STUFF HERE
+#CHNAGE STUFF HERE.
 alpha = 0.5 # learning rate
 gamma = 0.9 # discount factor
 epsilon = 0.05 # exploration factor
